@@ -1,0 +1,17 @@
+{
+  "name": "data-server",
+  "version": "1.0.0",
+  "description": "run json-server --watch data.json in the terminal to start the server",
+  "main": "index.js",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "json-server": "^0.17.1",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
